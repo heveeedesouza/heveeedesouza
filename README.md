@@ -6,7 +6,7 @@
 
 <p >
 🎓 Estudante de Sistemas de Informação — 6º período <br>
-💻 Desenvolvedora em formação com foco em Desenvolvimento de Software e Banco de Dados <br>
+💻 Desenvolvedora em formação com foco em Desenvolvimento de Software <br>
 🗄️ Experiência com SQL, modelagem e manipulação de dados <br>
 🤖 Interesse em Inteligência Artificial e Processamento de Imagens <br>
 🚀 Em constante aprendizado e evolução na área de tecnologia
