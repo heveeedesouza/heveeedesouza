@@ -1,10 +1,10 @@
-<p align="center">
+<p >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B5EA7&height=140&section=header"/>
 </p>
 
-<h2 align="center">👩‍💻 Hevellyn de Souza</h2>
+<h2 ">👩‍💻 Hevellyn de Souza</h2>
 
-<p align="center">
+<p >
 🎓 Estudante de Sistemas de Informação — 6º período <br>
 💻 Desenvolvedora em formação com foco em Desenvolvimento de Software e Banco de Dados <br>
 🗄️ Experiência com SQL, modelagem e manipulação de dados <br>
@@ -12,14 +12,7 @@
 🚀 Em constante aprendizado e evolução na área de tecnologia
 </p>
 
----
 
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=heveeedesouza&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heveeedesouza&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
 
 ## 🧩 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
