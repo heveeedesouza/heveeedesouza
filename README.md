@@ -5,7 +5,7 @@
 <h2 ">👩‍💻 Hevellyn de Souza</h2>
 
 <p >
-🎓 Estudante de Sistemas de Informação — 6º período <br>
+🎓 Estudante de Sistemas de Informação — 7º período <br>
 💻 Desenvolvedora em formação com foco em Desenvolvimento de Software <br>
 🗄️ Experiência com SQL, modelagem e manipulação de dados <br>
 🤖 Interesse em Inteligência Artificial e Processamento de Imagens <br>
